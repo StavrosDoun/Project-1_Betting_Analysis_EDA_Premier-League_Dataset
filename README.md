@@ -1,4 +1,4 @@
-Betting Analysis - Premier League
+# Betting Analysis - Premier League
 
 After conducting EDA of the dataset, we've gleaned valuable insights to guide our betting predictions.
 Our exploration revealed key trends such as identifying the top-performing teams, assessing the frequency and impact of red cards, and understanding the occurrence of draws.
